@@ -11,7 +11,7 @@ import SwiftUI
 struct Signaling_PathwaysApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SignalingPathwaysView()
         }
     }
 }
